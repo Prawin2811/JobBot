@@ -10,7 +10,7 @@ CORS(app)
 # Setup logging
 logging.basicConfig(level=logging.DEBUG)
 
-API_KEY = "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"
+API_KEY = "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"
 API_ENDPOINT = "https://api.groq.com/openai/v1/chat/completions"
 
 pdf_text = ""
